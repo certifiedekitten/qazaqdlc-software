@@ -70,7 +70,6 @@
    "functions_off":            { "enabled": true,  "label": "Turn off all functions" },
    "config_system":            { "enabled": true,  "label": "Configuration System [BETA]" }
    },
-   {
    "qazaqdlc Project Evolution 9.4F1 arm64": {
    "esp_header":               { "enabled": true,  "label": "ESP [BETA]" },
    "esp":                      { "enabled": true,  "label": "Activate ESP" },
@@ -101,7 +100,6 @@
    "transparency":             { "enabled": true,  "label": "Background Transparency" },
    "functions_off":            { "enabled": true,  "label": "Turn off all functions" },
    "config_system":            { "enabled": true,  "label": "Configuration System [BETA]" }
-   }
  }
 }
 }
