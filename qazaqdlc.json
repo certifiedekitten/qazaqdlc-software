@@ -76,6 +76,7 @@
    "box":                      { "enabled": true,  "label": "ESP Box" },
    "health":                   { "enabled": true,  "label": "ESP Health" },
    "armor":                    { "enabled": true,  "label": "ESP Armor" },
+   "distance":                 { "enabled": true,  "label": "ESP Distance" },
    "line":                     { "enabled": true,  "label": "ESP Line" },
    "line_position":            { "enabled": true,  "label": "Line Position" },
    "silentaim_header":         { "enabled": true,  "label": "Silent Aimbot [BETA]" },
