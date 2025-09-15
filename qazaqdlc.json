@@ -102,5 +102,6 @@
    "functions_off":            { "enabled": true,  "label": "Turn off all functions" },
    "config_system":            { "enabled": true,  "label": "Configuration System [BETA]" }
    }
+ }
 }
 }
