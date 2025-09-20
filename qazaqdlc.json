@@ -39,11 +39,11 @@
     },
     {
       "version": "qazaqdlc-beta patch v3 (evo 9.4f1 arm64)",
-      "isOpen": false,
+      "isOpen": true,
       "isWatermarkOn": true,
       "isWatermarkTimeOn": true,
       "isAbortOn": false,
-      "notAllowedReason": "тех работы (5 минут)",
+      "notAllowedReason": "",
       "cheatVersion": "",
       "cheatTitle": "QazaqDLC БЕТА",
       "cheatDesc": "qazaqdlc.com",
@@ -358,6 +358,26 @@
       "config_system": {
         "enabled": true,
         "label": "Система конфигов [БЕТА]"
+      },
+      "configName": {
+        "enabled": true,
+        "label": "Название кфг"
+      },
+      "saveConfig": {
+        "enabled": true,
+        "label": "Сохранить кфг"
+      },
+      "loadConfig": {
+        "enabled": true,
+        "label": "Загрузить кфг"
+      },
+      "deleteConfig": {
+        "enabled": true,
+        "label": "Удалить кфг"
+      },
+      "availableConfigs": {
+        "enabled": true,
+        "label": "Доступные конфиги"
       }
     },
     "qazaqdlc Project Evolution 9.4F1 arm64": {
