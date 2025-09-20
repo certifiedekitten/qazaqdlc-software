@@ -198,7 +198,7 @@
         "label": "Configuration System [BETA]"
       }
     },
-    "qazaqdlc-beta patch v2 (evo 9.4f1 arm64)": {
+    "qazaqdlc-beta patch v3 (evo 9.4f1 arm64)": {
       "esp_header": {
         "enabled": true,
         "label": "ESP [БЕТА]"
@@ -283,17 +283,37 @@
         "enabled": true,
         "label": "Радужные скины"
       },
-      "spamchat": {
+      "spamСhat": {
         "enabled": true,
         "label": "Спам в чат"
       },
-      "spamspeed": {
+      "spamSpeed": {
         "enabled": true,
         "label": "Скорость спама"
       },
-      "custommessages": {
+      "customMessages": {
         "enabled": true,
         "label": "Свои сообщения"
+      },
+      "customMessagesBox": {
+        "enabled": true,
+        "label": "Сообщения"
+      },
+      "customMessagesColor": {
+        "enabled": true,
+        "label": ""
+      },
+      "customMessagesAdd": {
+        "enabled": true,
+        "label": "Добавить сообщение"
+      },
+      "customMessagesRemove": {
+        "enabled": true,
+        "label": "Очистить лист сообщений"
+      },
+      "customMessagesList": {
+        "enabled": true,
+        "label": "Лист сообщений"
       },
       "powered_by": {
         "enabled": true,
@@ -315,9 +335,25 @@
         "enabled": true,
         "label": "Прозрачность фона"
       },
+      "bypassed_true": {
+        "enabled": true,
+        "label": "античит обойден: да"
+      },
+      "bypassed_false": {
+        "enabled": true,
+        "label": "обойдено: пока нет (убедись что ты в матче)"
+      },
+      "FPS": {
+        "enabled": true,
+        "label": "FPS"
+      },
       "functions_off": {
         "enabled": true,
         "label": "Выключить все функции"
+      },
+      "debugMenu": {
+        "enabled": true,
+        "label": "Открыть откладчик"
       },
       "config_system": {
         "enabled": true,
