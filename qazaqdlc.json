@@ -74,7 +74,7 @@
       "cheatStatus": 0,
       "abortTime": 5,
       "signature": "m-qd",
-      "updateOut": true
+      "outdated": true
     },
     {
       "version": "qazaqdlc Project Evolution 9.4F1 arm64",
