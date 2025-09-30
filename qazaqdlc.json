@@ -224,5 +224,192 @@
         "label": "Доступные конфиги"
       }
     }
+  },
+      "qazaqdlc-beta patch v5 (evo 9.4f1 arm64)": {
+      "esp_header": {
+        "enabled": true,
+        "label": "ESP [БЕТА]"
+      },
+      "esp": {
+        "enabled": true,
+        "label": "Активировать ESP"
+      },
+      "box": {
+        "enabled": true,
+        "label": "ESP Бокс"
+      },
+      "health": {
+        "enabled": true,
+        "label": "ESP Здоровье"
+      },
+      "armor": {
+        "enabled": true,
+        "label": "ESP Броня"
+      },
+      "distance": {
+        "enabled": true,
+        "label": "ESP Дистанция"
+      },
+      "line": {
+        "enabled": true,
+        "label": "ESP Линия"
+      },
+      "line_position": {
+        "enabled": true,
+        "label": "Позиция линии"
+      },
+      "silentaim_header": {
+        "enabled": true,
+        "label": "Сайлент Аимбот [БЕТА]"
+      },
+      "silentaim": {
+        "enabled": true,
+        "label": "Активировать Сайлент"
+      },
+      "silentfov": {
+        "enabled": true,
+        "label": "Показать FOV"
+      },
+      "silentfovscale": {
+        "enabled": true,
+        "label": "Размер FOV"
+      },
+      "silentaimcolor": {
+        "enabled": true,
+        "label": ""
+      },
+      "silentfovshape": {
+        "enabled": true,
+        "label": "Форма FOV"
+      },
+      "silentaimingmode": {
+        "enabled": true,
+        "label": "Тип прицеливания"
+      },
+      "silentaimtargetbone": {
+        "enabled": true,
+        "label": "Кость (цель)"
+      },
+      "silentaimhitchance": {
+        "enabled": true,
+        "label": "Шансы попадания"
+      },
+      "silentaimheadhitchance": {
+        "enabled": true,
+        "label": "В голову"
+      },
+      "silentaimneckhitchance": {
+        "enabled": true,
+        "label": "В шею"
+      },
+      "silentaimhiphitchance": {
+        "enabled": true,
+        "label": "В жопу"
+      },
+      "fastKnife": {
+        "enabled": true,
+        "label": "fk"
+      },
+      "setrainbowskins": {
+        "enabled": true,
+        "label": "Радужные скины"
+      },
+      "spamСhat": {
+        "enabled": true,
+        "label": "Спам в чат"
+      },
+      "spamSpeed": {
+        "enabled": true,
+        "label": "Скорость спама"
+      },
+      "customMessages": {
+        "enabled": true,
+        "label": "Свои сообщения"
+      },
+      "customMessagesBox": {
+        "enabled": true,
+        "label": "Сообщения"
+      },
+      "customMessagesColor": {
+        "enabled": true,
+        "label": ""
+      },
+      "customMessagesAdd": {
+        "enabled": true,
+        "label": "Добавить сообщение"
+      },
+      "customMessagesRemove": {
+        "enabled": true,
+        "label": "Очистить лист сообщений"
+      },
+      "customMessagesList": {
+        "enabled": true,
+        "label": "Лист сообщений"
+      },
+      "powered_by": {
+        "enabled": true,
+        "label": "Powered by kazcore"
+      },
+      "dlc_version": {
+        "enabled": true,
+        "label": "DLC: QazaqDLC на архитектуре KazakhDLC 2.5 F3"
+      },
+      "game_version": {
+        "enabled": true,
+        "label": "на Project Evolution (9.4F1) [arm64-v8a]"
+      },
+      "snowflakes": {
+        "enabled": true,
+        "label": "Снежинки"
+      },
+      "transparency": {
+        "enabled": true,
+        "label": "Прозрачность фона"
+      },
+      "bypassed_true": {
+        "enabled": true,
+        "label": "античит обойден: да"
+      },
+      "bypassed_false": {
+        "enabled": true,
+        "label": "обойдено: пока нет (убедись что ты в матче)"
+      },
+      "FPS": {
+        "enabled": true,
+        "label": "FPS"
+      },
+      "functions_off": {
+        "enabled": true,
+        "label": "Выключить все функции"
+      },
+      "debugMenu": {
+        "enabled": true,
+        "label": "Открыть откладчик"
+      },
+      "config_system": {
+        "enabled": true,
+        "label": "Система конфигов [БЕТА]"
+      },
+      "configName": {
+        "enabled": true,
+        "label": "Название кфг"
+      },
+      "saveConfig": {
+        "enabled": true,
+        "label": "Сохранить кфг"
+      },
+      "loadConfig": {
+        "enabled": true,
+        "label": "Загрузить кфг"
+      },
+      "deleteConfig": {
+        "enabled": true,
+        "label": "Удалить кфг"
+      },
+      "availableConfigs": {
+        "enabled": true,
+        "label": "Доступные конфиги"
+      }
+    }
   }
 }
