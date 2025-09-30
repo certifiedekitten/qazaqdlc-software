@@ -269,59 +269,135 @@
         "enabled": true,
         "label": "Сайлент Аимбот [БЕТА]"
       },
-      "silentaim": {
+      "silentAim": {
         "enabled": true,
         "label": "Активировать Сайлент"
       },
-      "silentfov": {
+      "silentFov": {
         "enabled": true,
         "label": "Показать FOV"
       },
-      "silentfovscale": {
+      "silentFovScale": {
         "enabled": true,
         "label": "Размер FOV"
       },
-      "silentaimcolor": {
+      "silentAimColor": {
         "enabled": true,
         "label": ""
       },
-      "silentfovshape": {
+      "silentFovShape": {
         "enabled": true,
         "label": "Форма FOV"
       },
-      "silentaimingmode": {
+      "silentAimingMode": {
         "enabled": true,
         "label": "Тип прицеливания"
       },
-      "silentaimtargetbone": {
+      "silentAimTargetBone": {
         "enabled": true,
         "label": "Кость (цель)"
       },
-      "silentaimhitchance": {
+      "silentAimHitChance": {
         "enabled": true,
         "label": "Шансы попадания"
       },
-      "silentaimheadhitchance": {
+      "silentAimHeadHitChance": {
         "enabled": true,
         "label": "В голову"
       },
-      "silentaimneckhitchance": {
+      "silentAimNeckHitChance": {
         "enabled": true,
         "label": "В шею"
       },
-      "silentaimhiphitchance": {
+      "silentAimHipHitChance": {
         "enabled": true,
         "label": "В жопу"
-      },
-      "fastKnife": {
-        "enabled": true,
-        "label": "fk"
       },
       "setrainbowskins": {
         "enabled": true,
         "label": "Радужные скины"
       },
-      "spamСhat": {
+      "chams": {
+        "enabled": true,
+        "label": "Chams"
+      },
+      "shader": {
+        "enabled": true,
+        "label": "Shader"
+      },
+      "textures_fix": {
+        "enabled": true,
+        "label": "Textures Fix"
+      },
+      "transparent_mode": {
+        "enabled": true,
+        "label": "Transparent mode"
+      },
+      "textured": {
+        "enabled": true,
+        "label": "Textured"
+      },
+      "visible_textured_color": {
+        "enabled": true,
+        "label": "Visible"
+      },
+      "invisible_textured_color": {
+        "enabled": true,
+        "label": "Invisible"
+      },
+      "wireframe": {
+        "enabled": true,
+        "label": "Wireframe"
+      },
+      "wf_color": {
+        "enabled": true,
+        "label": "WF Color"
+      },
+      "wallhack_wireframe": {
+        "enabled": true,
+        "label": "Wallhack (Wireframe)"
+      },
+      "width_wireframe": {
+        "enabled": true,
+        "label": "Width (Wireframe)"
+      },
+      "shading": {
+        "enabled": true,
+        "label": "Shading"
+      },
+      "sh_color": {
+        "enabled": true,
+        "label": "SH Color"
+      },
+      "wallhack_shading": {
+        "enabled": true,
+        "label": "Wallhack (Shading)"
+      },
+      "outline": {
+        "enabled": true,
+        "label": "Outline"
+      },
+      "ou_color": {
+        "enabled": true,
+        "label": "OU Color"
+      },
+      "wallhack_outline": {
+        "enabled": true,
+        "label": "Wallhack (Outline)"
+      },
+      "width_outline": {
+        "enabled": true,
+        "label": "Width (Outline)"
+      },
+      "glow": {
+        "enabled": true,
+        "label": "Glow"
+      },
+      "gl_color": {
+        "enabled": true,
+        "label": "GL Color"
+      },
+      "spamChat": {
         "enabled": true,
         "label": "Спам в чат"
       },
