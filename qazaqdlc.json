@@ -249,6 +249,10 @@
         "enabled": true,
         "label": "ESP Дистанция"
       },
+      "weapon": {
+        "enabled": true,
+        "label": "ESP Оружие"
+      },
       "line": {
         "enabled": true,
         "label": "ESP Линия"
