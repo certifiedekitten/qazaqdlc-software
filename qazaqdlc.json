@@ -445,6 +445,10 @@
         "enabled": true,
         "label": "Лист сообщений"
       },
+      "skinChangerUnavailable": {
+        "enabled": true,
+        "label": "Скинченджер временно недоступен."
+      },
       "about_header": {
         "enabled": true,
         "label": "О DLC"
@@ -501,9 +505,13 @@
         "enabled": true,
         "label": "Сервер"
       },
+      "serverWarning_1": {
+        "enabled": true,
+        "label": "если отключил соединение с сервером, то"
+      },
       "serverWarning": {
         "enabled": true,
-        "label": "чтобы обратно подключится к серверу после отключения перезайди в чит"
+        "label": "чтобы обратно подключится к серверу перезайди в чит"
       },
       "misc_header": {
         "enabled": true,
