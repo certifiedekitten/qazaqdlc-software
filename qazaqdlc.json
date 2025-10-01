@@ -127,14 +127,6 @@
         "enabled": true,
         "label": "Радужные скины"
       },
-      "environment": {
-        "enabled": true,
-        "label": "Окружающая среда"
-      },
-      "world": {
-        "enabled": true,
-        "label": "Цвет мира"
-      },
       "spamСhat": {
         "enabled": true,
         "label": "Спам в чат"
@@ -408,6 +400,14 @@
       "gl_color": {
         "enabled": true,
         "label": "GL Color"
+      },
+      "environment": {
+        "enabled": true,
+        "label": "Окружающая среда"
+      },
+      "world": {
+        "enabled": true,
+        "label": "Цвет мира"
       },
       "spamChat": {
         "enabled": true,
