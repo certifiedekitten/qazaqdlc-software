@@ -429,6 +429,14 @@
         "enabled": true,
         "label": "Лист сообщений"
       },
+      "about_header": {
+        "enabled": true,
+        "label": "О DLC"
+      },
+      "about": {
+        "enabled": true,
+        "label": "Сведения:"
+      },
       "powered_by": {
         "enabled": true,
         "label": "Powered by kazcore"
@@ -441,6 +449,10 @@
         "enabled": true,
         "label": "на Project Evolution (9.4F1) [arm64-v8a]"
       },
+      "menu_header": {
+        "enabled": true,
+        "label": "Меню"
+      },
       "snowflakes": {
         "enabled": true,
         "label": "Снежинки"
@@ -448,6 +460,10 @@
       "transparency": {
         "enabled": true,
         "label": "Прозрачность фона"
+      },
+      "bypass_header": {
+        "enabled": true,
+        "label": "Антибан"
       },
       "bypassed_true": {
         "enabled": true,
@@ -457,17 +473,21 @@
         "enabled": true,
         "label": "обойдено: пока нет (убедись что ты в матче)"
       },
-      "FPS": {
+      "server_header": {
         "enabled": true,
-        "label": "FPS"
+        "label": "Сервер"
       },
-      "functions_off": {
+      "misc_header": {
         "enabled": true,
-        "label": "Выключить все функции"
+        "label": "Разное"
       },
       "debugMenu": {
         "enabled": true,
         "label": "Открыть откладчик"
+      },
+      "functions_off": {
+        "enabled": true,
+        "label": "Выключить все функции"
       },
       "config_system": {
         "enabled": true,
