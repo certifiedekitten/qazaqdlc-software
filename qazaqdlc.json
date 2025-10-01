@@ -273,6 +273,10 @@
         "enabled": true,
         "label": "Активировать Сайлент"
       },
+      "silentAim360": {
+        "enabled": true,
+        "label": "Сайлент 360"
+      },
       "silentFov": {
         "enabled": true,
         "label": "Показать FOV"
@@ -460,6 +464,14 @@
       "transparency": {
         "enabled": true,
         "label": "Прозрачность фона"
+      },
+      "open_type": {
+        "enabled": true,
+        "label": "Тип открытия"
+      },
+      "finger_amount": {
+        "enabled": true,
+        "label": "Количество пальцев"
       },
       "bypass_header": {
         "enabled": true,
