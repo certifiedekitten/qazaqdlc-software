@@ -509,7 +509,7 @@
         "enabled": true,
         "label": "если отключил соединение с сервером, то"
       },
-      "serverWarning": {
+      "serverWarning_2": {
         "enabled": true,
         "label": "чтобы обратно подключится к серверу перезайди в чит"
       },
