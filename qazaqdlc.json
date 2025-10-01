@@ -409,9 +409,13 @@
         "enabled": true,
         "label": "Цвет мира"
       },
-      "spamChat": {
+      "spam_header": {
         "enabled": true,
         "label": "Спам в чат"
+      },
+      "spamChat": {
+        "enabled": true,
+        "label": "Активировать спаммер"
       },
       "spamSpeed": {
         "enabled": true,
