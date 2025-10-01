@@ -322,7 +322,7 @@
         "label": "Радужные скины"
       },
       "chams": {
-        "enabled": true,
+        "enabled": false,
         "label": "Chams"
       },
       "shader": {
