@@ -2,13 +2,13 @@
   "versions": [
     {
       "version": "qazaqdlc-beta patch v4 (evo 9.4f1 arm64)",
-      "isOpen": false,
+      "isOpen": true,
       "isWatermarkOn": true,
       "isWatermarkTimeOn": true,
-      "isAbortOn": true,
+      "isAbortOn": false,
       "notAllowedReason": "доступна новая версия",
       "cheatVersion": "",
-      "cheatTitle": "QazaqDLC BETA 4",
+      "cheatTitle": "QazaqDLC BETA",
       "cheatDesc": "qazaqdlc.com",
       "watermarkTitle": "",
       "watermarkDescription": "",
@@ -17,8 +17,8 @@
       "miniWatermarkSize": 0,
       "cheatStatus": 0,
       "abortTime": 5,
-      "signature": "",
-      "outdated": true
+      "signature": "fdw-w",
+      "outdated": false
     },
     {
       "version": "qazaqdlc-beta patch v5 (evo 9.4f1 arm64)",
@@ -57,7 +57,7 @@
       "miniWatermarkSize": 0,
       "cheatStatus": 0,
       "abortTime": 5,
-      "signature": "default",
+      "signature": "",
       "outdated": false
     }
   ],
@@ -350,6 +350,18 @@
       "silentAimHipHitChance": {
         "enabled": true,
         "label": "В жопу"
+      },
+      "testHeader1": {
+        "enabled": true,
+        "label": "Аимбот [БЕТА]"
+      },
+      "mTestFunction1": {
+        "enabled": true,
+        "label": "Активировать Аимбот"
+      },
+      "mTestText1": {
+        "enabled": true,
+        "label": "(не работает в BETA 6)"
       },
       "setRainbowSkins": {
         "enabled": true,
