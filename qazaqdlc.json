@@ -749,6 +749,10 @@
         "enabled": true,
         "label": "Радужные перчатки"
       },
+      "dropKnife": {
+        "enabled": true,
+        "label": "Бросать ножи"
+      },
       "chams": {
         "enabled": false,
         "label": "Chams"
