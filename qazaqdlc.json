@@ -62,11 +62,11 @@
     },
     {
       "version": "qazaqdlc-beta patch v7 (evo 9.4f1 arm64)",
-      "isOpen": false,
+      "isOpen": true,
       "isWatermarkOn": true,
       "isWatermarkTimeOn": true,
       "isAbortOn": false,
-      "notAllowedReason": "фыв",
+      "notAllowedReason": "",
       "cheatVersion": "",
       "cheatTitle": "QazaqDLC BETA 7",
       "cheatDesc": "qazaqdlc.com",
@@ -78,7 +78,7 @@
       "cheatStatus": 0,
       "abortTime": 5,
       "signature": "",
-      "outdated": true
+      "outdated": false
     }
   ],
   "functions": {
