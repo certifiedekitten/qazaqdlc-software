@@ -525,11 +525,11 @@
       },
       "powered_by": {
         "enabled": true,
-        "label": "Powered by kazcore"
+        "label": "Powered by qazaqdlc"
       },
       "dlc_version": {
         "enabled": true,
-        "label": "DLC: QazaqDLC на архитектуре KazakhDLC 2.5 F3"
+        "label": "DLC: QazaqDLC на архитектуре QazaqDLC v1"
       },
       "game_version": {
         "enabled": true,
@@ -721,7 +721,7 @@
         "enabled": true,
         "label": "(не работает в BETA 6)"
       },
-      "setRainbowSkinsString": {
+      "setRainbowSkinsSting": {
         "enabled": true,
         "label": "Радужные скины (Sting)"
       },
@@ -744,6 +744,10 @@
       "setRainbowSkinsStiletto": {
         "enabled": true,
         "label": "Радужные скины (Stilet)"
+      },
+      "setRainbowGloves": {
+        "enabled": true,
+        "label": "Радужные перчатки"
       },
       "chams": {
         "enabled": false,
