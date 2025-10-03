@@ -729,10 +729,6 @@
         "enabled": true,
         "label": "Радужные скины (Butterfly)"
       },
-      "setRainbowSkinsFang": {
-        "enabled": true,
-        "label": "Радужные скины (Fang)"
-      },
       "setRainbowSkinsKarambit": {
         "enabled": true,
         "label": "Радужные скины (Karambit)"
