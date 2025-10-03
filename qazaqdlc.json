@@ -721,9 +721,29 @@
         "enabled": true,
         "label": "(не работает в BETA 6)"
       },
-      "setRainbowSkins": {
+      "setRainbowSkinsString": {
         "enabled": true,
-        "label": "Радужные скины"
+        "label": "Радужные скины (Sting)"
+      },
+      "setRainbowSkinsBayonet": {
+        "enabled": true,
+        "label": "Радужные скины (M9)"
+      },
+      "setRainbowSkinsButterfly": {
+        "enabled": true,
+        "label": "Радужные скины (Butterfly)"
+      },
+      "setRainbowSkinsFang": {
+        "enabled": true,
+        "label": "Радужные скины (Fang)"
+      },
+      "setRainbowSkinsKarambit": {
+        "enabled": true,
+        "label": "Радужные скины (Karambit)"
+      },
+      "setRainbowSkinsStiletto": {
+        "enabled": true,
+        "label": "Радужные скины (Stilet)"
       },
       "chams": {
         "enabled": false,
