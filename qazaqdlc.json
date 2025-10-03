@@ -62,11 +62,11 @@
     },
     {
       "version": "qazaqdlc-beta patch v7 (evo 9.4f1 arm64)",
-      "isOpen": true,
+      "isOpen": false,
       "isWatermarkOn": true,
       "isWatermarkTimeOn": true,
       "isAbortOn": false,
-      "notAllowedReason": "",
+      "notAllowedReason": "asd",
       "cheatVersion": "",
       "cheatTitle": "QazaqDLC BETA X",
       "cheatDesc": "qazaqdlc.com",
@@ -77,7 +77,7 @@
       "miniWatermarkSize": 0,
       "cheatStatus": 0,
       "abortTime": 5,
-      "signature": "",
+      "signature": "default",
       "outdated": false
     }
   ],
@@ -667,7 +667,7 @@
       },
       "silentAim360": {
         "enabled": true,
-        "label": "Сайлент 360 [БЕТА]"
+        "label": "Сайлент 360"
       },
       "silentFov": {
         "enabled": true,
@@ -710,16 +710,12 @@
         "label": "В жопу"
       },
       "testHeader1": {
-        "enabled": true,
+        "enabled": false,
         "label": "Аимбот [БЕТА]"
       },
       "mTestFunction1": {
-        "enabled": true,
+        "enabled": false,
         "label": "Активировать Аимбот"
-      },
-      "mTestText1": {
-        "enabled": true,
-        "label": "(не работает в BETA 6)"
       },
       "setRainbowSkinsSting": {
         "enabled": true,
@@ -750,7 +746,7 @@
         "label": "Радужные перчатки"
       },
       "dropKnife": {
-        "enabled": true,
+        "enabled": false,
         "label": "Бросать ножи"
       },
       "chams": {
@@ -834,7 +830,7 @@
         "label": "GL Color"
       },
       "environment": {
-        "enabled": true,
+        "enabled": false,
         "label": "Окружающая среда"
       },
       "world": {
@@ -877,10 +873,6 @@
         "enabled": true,
         "label": "Лист сообщений"
       },
-      "skinChangerUnavailable": {
-        "enabled": true,
-        "label": "Скинченджер временно недоступен."
-      },
       "about_header": {
         "enabled": true,
         "label": "О DLC"
@@ -889,13 +881,9 @@
         "enabled": true,
         "label": "Сведения:"
       },
-      "powered_by": {
-        "enabled": true,
-        "label": "Powered by kazcore"
-      },
       "dlc_version": {
         "enabled": true,
-        "label": "DLC: QazaqDLC на архитектуре KazakhDLC 2.5 F3"
+        "label": "DLC: QazaqDLC на архитектуре QazaqDLC v1"
       },
       "game_version": {
         "enabled": true,
